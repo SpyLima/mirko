@@ -20,6 +20,14 @@ a:visited, a:link {
     text-decoration: none;
 }
 
+a:hover {
+  color: #A9B1D6;
+}
+
+input:focus::placeholder {
+  opacity: 0%;
+}
+
 #container1 {
     padding: 3em;
 }
