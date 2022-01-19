@@ -8,8 +8,7 @@
 
 ## 🔖 Ways to use:
 * __Download this repo__
-* __Change the git status settings for your wakatime and github user (line 67 and line 22)__
-* __Save and set the file to default home page__
+* __Set the file (or URL) to default home page__
 
 ## 💻 Made with:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
